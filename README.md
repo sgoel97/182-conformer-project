@@ -1,6 +1,6 @@
 # CS 182 Final Project
 
-Jerry Li, Kanu Grover, Samarth Goel, Aniruddh Chennapragada
+Authors: Jerry Li, Kanu Grover, Samarth Goel, Aniruddh Chennapragada
 
 ## Introduction
 
