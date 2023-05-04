@@ -1,6 +1,7 @@
 # CS 182 Final Project
 
 **Authors:** Jerry Li, Kanu Grover, Samarth Goel, Aniruddh Chennapragada
+
 **Topic:** Conformers
 
 ## Introduction
