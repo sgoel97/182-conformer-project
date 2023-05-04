@@ -2,8 +2,6 @@
 
 Jerry Li, Kanu Grover, Samarth Goel, Aniruddh Chennapragada
 
----
-
 ## Introduction
 
 In this project, we designed an assignment based on the paper "Conformer: Convolution-augmented Transformer for Speech Recognition" to facilitate students' understanding of the Conformer neural network model in the context of Automatic Speech Recognition (ASR). Students are tasked with implementing every major component of the Conformer, constructing the architecture from scratch and applying it to both the LibriSpeech Benchmark Dataset and the AN4 Dataset. By comparing the model's performance and design choices to alternative solutions, students gain a deeper comprehension of the employed concepts and their practical applications.
