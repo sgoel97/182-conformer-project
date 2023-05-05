@@ -7,7 +7,7 @@
 ## Installation Guide
 
 - clone the github repo locally
-- update the entire folder to Google Drive
+- upload the entire folder to Google Drive
 - rename the folder's name to be 'Final_Project_182' (without the quotes)
 - run the 'Conformer_182_Project_Solutions.ipynb' file for the solutions or the 'Conformer_182_Project_Student.ipynb' for the students' version
 
